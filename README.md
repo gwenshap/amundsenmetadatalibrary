@@ -5,6 +5,7 @@
 [![License](http://img.shields.io/:license-Apache%202-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://bit.ly/2FVq37z)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenmetadatalibrary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenmetadatalibrary?ref=badge_shield)
 
 Amundsen Metadata service serves Restful API and responsible for providing and also updating metadata, such as table & column description, and tags. Metadata service can use Neo4j or Apache Atlas as a persistent layer.
 
@@ -107,3 +108,7 @@ The support for Apache Atlas is work in progress. For example, while Apache Atla
 
 ## Code structure
 Please visit [Code Structure](docs/structure.md) to read how different modules are structured in Amundsen Metadata service.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenmetadatalibrary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenmetadatalibrary?ref=badge_large)
